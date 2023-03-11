@@ -30,3 +30,10 @@
 
 #### OBSERVAÇÃO
 ##### Podem escolher temas diferentes aos citados acima, porém, não pode ser usado o mesmo tema do curso (escolar)!
+
+
+
+
+
+
+![modelo_mer_aluguel_imoveis](https://user-images.githubusercontent.com/122938850/224502846-abe0091b-302c-43b3-91da-ee9173db39fd.png)
